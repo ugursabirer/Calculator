@@ -1,4 +1,4 @@
-# Calculator with java swing
+# Calculator With Java Swing
 A calculator using swing of java
 
 <h2>Image of Calculator
