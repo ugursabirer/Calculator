@@ -1,5 +1,5 @@
 # Calculator With Java Swing
-A calculator using swing of java
+Calculator application using java swing
 
 <h2>Image of Calculator
 <h2>
