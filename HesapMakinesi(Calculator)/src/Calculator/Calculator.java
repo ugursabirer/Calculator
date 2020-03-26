@@ -326,7 +326,6 @@ class MySpecialButton extends Button implements ActionListener {
             c.memoryValue = 0.0;
             c.memoryLabel.setText(" ");
         }
-
         c.displayLabel.setText("0");
         c.setClear = true;
     }
